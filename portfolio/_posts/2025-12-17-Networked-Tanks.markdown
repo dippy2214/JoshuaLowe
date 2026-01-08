@@ -8,7 +8,7 @@ This SFML project was created for my network programming module in my university
 
 <img src="../../../../images/Networked-Tanks/gameplay-video-4.gif" alt="Gif showing basic gameplay" width="500" height=auto>
 
-Follow this link to see the project code on github! [Github: FNAF Bros Brawl](https://github.com/dippy2214/assessment-project-dippy2214)
+Follow this link to see the project code on github! [Github: Networked Tanks](https://github.com/dippy2214/assessment-project-dippy2214)
 {:.faded}
 
 It is important to note the game is built off example code given to us in lectures. The game part of this project is not my own creation, and is a fairly simple product which I added a few additional features to, but all code to handle networking and syncing in the game is entirely mine.
