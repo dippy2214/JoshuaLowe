@@ -48,7 +48,7 @@ For this project, I aimed to make a working software rasteriser from scratch. In
 
 The final product of this project could render .obj models with textures (see above), had a controllable camera and could output results to a .bmp image file as a screenshot. Once I finished with the software rasteriser I also modified this to have a custom shader pipeline inspired by my work in directX - although multithreading this so it would run at a reasonable speed proved too much for me at the time, and I have yet to go back to that wide world of memory leaks.
 
-For full details on any problems mentioned on this page follow this link to see the full devlog on github! [Github: Rasteriser](https://github.com/dippy2214/Rasteriser)
+Follow this link to see the project code on github! [Github: Rasteriser](https://github.com/dippy2214/Rasteriser)
 {:.faded}
 
 
