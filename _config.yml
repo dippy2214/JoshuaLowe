@@ -41,6 +41,8 @@ menu:
     url: /portfolio/
   - title: About me
     url:   /about/
+  - title: Grad show
+    url: /gradshow/
 
 # Build settings
 theme: jekyll-theme-hydejack
